@@ -1,0 +1,7 @@
+type: http
+method: POST
+url: "{{base_url}}/ping"
+headers:
+  content-type: application/json
+body: |
+  {"message":"hello from postless"}

@@ -1,0 +1,4 @@
+default: smoke
+environments:
+  smoke:
+    base_url: $POSTLESS_TEST_URL
