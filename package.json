@@ -1,5 +1,5 @@
 {
-  "name": "postless",
+  "name": "postless-tui",
   "version": "0.1.0",
   "description": "A fast, local-first terminal HTTP client",
   "type": "module",

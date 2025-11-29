@@ -3,7 +3,7 @@
 A fast, keyboard-driven HTTP client for the terminal. Requests are plain YAML files that live in your repo, environments are just variables, and everything works over SSH. No account, no cloud, no Electron.
 
 ```sh
-npx postless
+npx postless-tui
 ```
 
 ![status](https://img.shields.io/badge/status-beta-orange) ![node](https://img.shields.io/badge/node-%3E%3D20-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue)
@@ -26,7 +26,7 @@ Postman-style clients are heavy GUI apps with login walls. curl is fast but has 
 ## Install
 
 ```sh
-npm install -g postless   # or just: npx postless
+npm install -g postless-tui   # or just: npx postless-tui
 ```
 
 Requires Node.js 20 or newer.
