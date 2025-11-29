@@ -59,5 +59,13 @@
     "api",
     "terminal",
     "postman"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celento/postless.git"
+  },
+  "homepage": "https://github.com/celento/postless#readme",
+  "bugs": {
+    "url": "https://github.com/celento/postless/issues"
+  }
 }
